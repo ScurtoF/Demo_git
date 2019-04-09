@@ -2,3 +2,5 @@
 Une demo de Git qui se passe bien
 
 Et maintenant on modifie depuis github
+Mais aussi en local
+
